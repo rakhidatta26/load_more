@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: 1.6;
+  background-color: #fff;
+}
+
+.wrapper {
+  max-width: 800px;
+  margin: 15px auto;
+  font-size: 1.25rem
+}
+
+.load-more__btn {
+  text-decoration: none;
+  padding: 15px;
+  background-color: #fff;
+}
+.some-list > div {
+  margin: 0.5rem 0;
+  padding: 15px;
+  border-radius: 3px;
+  background-color: aqua;
+  color: black;
+}
